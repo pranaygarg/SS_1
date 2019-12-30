@@ -1,4 +1,4 @@
-quu#include <stdio.h>
+#include <stdio.h>
 #include <unistd.h>
 
 int vuln() {
